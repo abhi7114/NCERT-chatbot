@@ -40,5 +40,5 @@ This project creates a chatbot capable of answering questions based on the NCERT
 
 This project demonstrates the application of natural language processing and machine learning for creating intelligent chatbots that can provide information from educational resources.
 
-**To run this project in google colab, You just need to get your api_key and upload the pdfs.**
+**To run this project in google colab, You just need to get your api_key and upload the pdfs (For NCERT PDFs you can get them from their official website).If you want to use your pdf files, just update the pdf_files variable.**
 **Thank you for reading**
