@@ -39,3 +39,6 @@ This project creates a chatbot capable of answering questions based on the NCERT
 - Evaluation: Develop metrics to evaluate the chatbot's accuracy and effectiveness in answering questions.
 
 This project demonstrates the application of natural language processing and machine learning for creating intelligent chatbots that can provide information from educational resources.
+
+**To run this project in google colab, You just need to get your api_key and upload the pdfs.**
+**Thank you for reading**
